@@ -39,8 +39,6 @@ if(isset($_FILES['file']) && $_FILES['file']['error']==0){
  }
 
 
-
-
 ?>
 <!DOCTYPE html>
 <html lang="en">
